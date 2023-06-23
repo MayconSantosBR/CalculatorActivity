@@ -1,0 +1,42 @@
+#form button{
+    width: 100%;
+}
+
+.form-container {
+    border: 1px solid black;
+    border-radius: 5%;
+    padding: 5vh;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 10vh;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input{
+    text-align: left;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#json-output {
+    margin-top: 20px;
+    white-space: pre;
+    font-family: monospace;
+}
+
+#json{
+    border: 1px solid black;
+    margin-top: 5vh;
+    padding: 1vh;
+}

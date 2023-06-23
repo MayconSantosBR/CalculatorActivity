@@ -1,0 +1,5 @@
+.navbar-nav a:hover{
+    opacity: 50%;
+    color: white;
+    background-color: rgb(72, 69, 69);
+}
